@@ -14,7 +14,7 @@ I'm an aspiring **Web Developer** with hands-on experience from a 5-month intern
 
 
 ### Languages and Tool
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/php.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/laravel.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png" />
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/php.png" /> <img width="48" height="48" src="https://img.icons8.com/fluency/48/laravel.png" alt="laravel"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png" />
 
 
 ### IDE and Tools I Use
