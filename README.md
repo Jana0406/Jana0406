@@ -14,7 +14,7 @@ I'm an aspiring **Web Developer** with hands-on experience from a 5-month intern
 
 
 ### Languages and Tool
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/php.png" /> <img width="48" height="48" src="https://img.icons8.com/fluency/48/laravel.png" alt="laravel"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png" />
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/php.png" /> <img width="64" height="64" src="https://img.icons8.com/nolan/64/laravel.png" alt="laravel"/> <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png" alt="external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo"/> <img width="48" height="48" src="https://img.icons8.com/color/48/bootstrap--v1.png" alt="bootstrap--v1"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png" />
 
 
 ### IDE and Tools I Use
