@@ -1,4 +1,4 @@
-## Hi there 👋, I'm **Janarthanan ** <img width="48" height="48" src="https://img.icons8.com/color/48/groot.png" alt="groot"/>
+## Hi there 👋, I'm Janarthanan
 I'm an aspiring **Web Developer** with hands-on experience from a 5-month internship at Capnis Infotech Private Limited. I am currently seeking opportunities in a **Web Developer** role to further enhance my skills and contribute to impactful projects.
 
 ### About Me  
