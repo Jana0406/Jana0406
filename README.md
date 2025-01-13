@@ -13,11 +13,9 @@ I'm an aspiring **Web Developer** with hands-on experience from a 5-month intern
   <img width="48" height="48" src="https://img.icons8.com/color/48/instagram-new--v1.png" alt="instagram-new--v1"/>
 </a>
 
+### Languages and Tool
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/php.png" /> <img width="48" height="48" src="https://img.icons8.com/nolan/48/laravel.png" alt="laravel"/> <img width="48" height="48" src="https://img.icons8.com/color/48/mysql-logo.png" alt="mysql-logo"/> <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png" alt="external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo"/> <img width="48" height="48" src="https://img.icons8.com/color/48/bootstrap--v1.png" alt="bootstrap--v1"/> 
 
-### 💻 Workspace Spec
-<img height="30" src="https://img.shields.io/badge/Dell-Latitude-007DB8?style=for-the-badge&logo=dell&logoColor=white" /> 
-<img height="30" src="https://img.shields.io/badge/Intel-i5_11th_Gen-0071C5?style=for-the-badge&logo=intel&logoColor=white" /> 
-<img height="30" src="https://img.shields.io/badge/NVIDIA-MX450-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
 
 ---
 
