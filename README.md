@@ -1,17 +1,14 @@
-## Hi there 👋 It's me, Janarthanan M.
+# Hi there 👋, I'm **Janarthanan M**  
+I'm an aspiring **Web Developer** with hands-on experience from a 5-month internship at Capnis Infotech Private Limited. I am currently seeking opportunities in a **Web Developer** role to further enhance my skills and contribute to impactful projects.
 
-### Junior Web Developer @ Capnis Infotech Private Limited
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+## About Me  
+- 🌟 Passionate about building responsive and dynamic web applications.  
+- 🔧 Skilled in **HTML**, **CSS**, **JavaScript**, **PHP**, **Laravel**, **MySQL**, and **Bootstrap 4**.  
 
-- 🔧 I'm currently working on Laravel-based applications, creating and managing CRUD functionalities.
-- 🌟 Specializing in building Learning Management Systems (LMS).
-- 📚 I’m currently enhancing my skills in advanced Laravel features and SEO techniques.
-- 💡 Ask me about Laravel, MySQL, and web development.
-- 📞 How to reach me:
-  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/janarthanan-m/) 
-  [<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />](https://janarthanan.dev)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I enjoy creating seamless user experiences and managing back-end complexities.
+## How to Reach Me  
+- 📫 **LinkedIn:** [linkedin.com/in/janarthananm](#)  
+- 📸 **Instagram:** [instagram.com/janarthanan.m](#)  
+
 
 ---
 
