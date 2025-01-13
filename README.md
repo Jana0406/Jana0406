@@ -30,4 +30,4 @@ I'm an aspiring **Web Developer** with hands-on experience from a 5-month intern
 
 ![Janarthanan's GitHub stats](https://github-readme-stats.vercel.app/api?username=janarthanan-m&theme=dark&show_icons=true&hide=issues)
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jana0406&bg_color=121111&color=ffffff&line=2e7ee5&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jana0406&bg_color=000000&color=ffffff&line=2e7ee5&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
