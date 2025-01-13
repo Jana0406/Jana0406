@@ -6,7 +6,7 @@ I'm an aspiring **Web Developer** with hands-on experience from a 5-month intern
 - 🔧 Skilled in **HTML**, **CSS**, **JavaScript**, **PHP**, **Laravel**, **MySQL**, and **Bootstrap 4**.  
 
 ## Connect with me: 
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<img width="48" height="48" src="https://img.icons8.com/external-those-icons-fill-those-icons/48/external-Instagram-social-media-those-icons-fill-those-icons.png" alt="external-Instagram-social-media-those-icons-fill-those-icons"/>
 - 📸 **Instagram:** [instagram.com/janarthanan.m](https://www.instagram.com/insta_2k_kidz)  
 
 
