@@ -3,7 +3,8 @@ I'm an aspiring **Web Developer** with hands-on experience from a 5-month intern
 
 ## About Me  
 - 🌟 Passionate about building responsive and dynamic web applications.  
-- 🔧 Skilled in **HTML**, **CSS**, **JavaScript**, **PHP**, **Laravel**, **MySQL**, and **Bootstrap 4**.  
+- 🔧 Skilled in **HTML**, **CSS**, **JavaScript**, **PHP**, **Laravel**, **MySQL**, and **Bootstrap 4**.
+- 📫 How to reach me: [mrjana2003@gmail.com](#)
 
 ## Connect with me: 
 <a href="https://www.linkedin.com/in/janarthanan0406/" target="_blank">
